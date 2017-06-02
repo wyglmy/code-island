@@ -13,7 +13,7 @@ class LoginController extends Controller {
 
     //登录页面
     public function login(){
-        $a = 222;
+        $a = 333;
         $this->display();
     }
 
