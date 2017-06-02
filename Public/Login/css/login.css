@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+body{
+    background:#fff url("../images/login_background.jpg") no-repeat left top;
+    background-size:cover;
+    position:absolute;
+    top:0;
+    left:0;
+    height:100%;
+    width:100%;
+    background-position: center 0;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    -webkit-background-size: cover;/* 兼容Webkit内核浏览器如Chrome和Safari */
+    -o-background-size: cover;/* 兼容Opera */
+    zoom: 1;
+    font-family:"微软雅黑" ;
+}
+
+
+.login{
+    width: 40%;
+    height: 20%;
+    box-shadow: 0 0 3px 3px #60C4EF;
+    margin: 250px  -150px 0 auto;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    padding: 30px;
+}
+.verify{
+    cursor: pointer;
+}
+.reset{
+    margin-left: 50px;
+}
+.button_line{
+    margin-top: 10px;
+}
+.info_p, .info_u, .info_v{
+    color: red;
+    display: none;
+}

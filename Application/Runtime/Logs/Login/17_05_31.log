@@ -1,0 +1,195 @@
+[ 2017-05-31T20:02:20+08:00 ] 127.0.0.1 /login/check_login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000603s ]
+
+[ 2017-05-31T20:03:17+08:00 ] 127.0.0.1 /login/check_login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000647s ]
+
+[ 2017-05-31T20:14:36+08:00 ] 127.0.0.1 /login/check_login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000798s ]
+NOTIC: [8] MemcachePool::get(): Server 127.0.0.1 (tcp 11211, udp 0) failed with: ������ӷ���һ��ʱ���û���ȷ�𸴻�ӵ����û�з�Ӧ�����ӳ���ʧ�ܡ�
+ (10060) D:\wamp64\www\thinkphp\ThinkPHP\Library\Think\Session\Driver\Memcache.class.php 第 49 行.
+
+[ 2017-05-31T20:14:38+08:00 ] 127.0.0.1 /login/check_login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000593s ]
+
+[ 2017-05-31T20:14:45+08:00 ] 127.0.0.1 /login/check_login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000728s ]
+
+[ 2017-05-31T20:16:57+08:00 ] 127.0.0.1 /login/check_login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000890s ]
+
+[ 2017-05-31T20:18:58+08:00 ] 127.0.0.1 /login/check_login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000760s ]
+NOTIC: [8] Undefined index: verify D:\wamp64\www\thinkphp\Application\Login\Controller\LoginController.class.php 第 41 行.
+
+[ 2017-05-31T20:23:09+08:00 ] 127.0.0.1 /login/check_login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000936s ]
+NOTIC: [8] MemcachePool::get(): Server 127.0.0.1 (tcp 11211, udp 0) failed with: ������ӷ���һ��ʱ���û���ȷ�𸴻�ӵ����û�з�Ӧ�����ӳ���ʧ�ܡ�
+ (10060) D:\wamp64\www\thinkphp\ThinkPHP\Library\Think\Session\Driver\Memcache.class.php 第 49 行.
+
+[ 2017-05-31T20:28:46+08:00 ] 127.0.0.1 /login/check_login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000646s ]
+
+[ 2017-05-31T20:29:33+08:00 ] 127.0.0.1 /login/check_login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000661s ]
+NOTIC: [8] MemcachePool::get(): Server 127.0.0.1 (tcp 11211, udp 0) failed with: ������ӷ���һ��ʱ���û���ȷ�𸴻�ӵ����û�з�Ӧ�����ӳ���ʧ�ܡ�
+ (10060) D:\wamp64\www\thinkphp\ThinkPHP\Library\Think\Session\Driver\Memcache.class.php 第 49 行.
+
+[ 2017-05-31T20:29:49+08:00 ] 127.0.0.1 /login/check_login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000628s ]
+NOTIC: [8] MemcachePool::get(): Server 127.0.0.1 (tcp 11211, udp 0) failed with: ������ӷ���һ��ʱ���û���ȷ�𸴻�ӵ����û�з�Ӧ�����ӳ���ʧ�ܡ�
+ (10060) D:\wamp64\www\thinkphp\ThinkPHP\Library\Think\Session\Driver\Memcache.class.php 第 49 行.
+
+[ 2017-05-31T20:35:45+08:00 ] 127.0.0.1 /login/check_login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000705s ]
+NOTIC: [8] MemcachePool::get(): Server 127.0.0.1 (tcp 11211, udp 0) failed with: ������ӷ���һ��ʱ���û���ȷ�𸴻�ӵ����û�з�Ӧ�����ӳ���ʧ�ܡ�
+ (10060) D:\wamp64\www\thinkphp\ThinkPHP\Library\Think\Session\Driver\Memcache.class.php 第 49 行.
+
+[ 2017-05-31T20:37:01+08:00 ] 127.0.0.1 /login/check_login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000626s ]
+NOTIC: [8] MemcachePool::get(): Server 127.0.0.1 (tcp 11211, udp 0) failed with: ������ӷ���һ��ʱ���û���ȷ�𸴻�ӵ����û�з�Ӧ�����ӳ���ʧ�ܡ�
+ (10060) D:\wamp64\www\thinkphp\ThinkPHP\Library\Think\Session\Driver\Memcache.class.php 第 49 行.
+
+[ 2017-05-31T20:37:28+08:00 ] 127.0.0.1 /login/check_login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000769s ]
+NOTIC: [8] MemcachePool::get(): Server 127.0.0.1 (tcp 11211, udp 0) failed with: ������ӷ���һ��ʱ���û���ȷ�𸴻�ӵ����û�з�Ӧ�����ӳ���ʧ�ܡ�
+ (10060) D:\wamp64\www\thinkphp\ThinkPHP\Library\Think\Session\Driver\Memcache.class.php 第 49 行.
+NOTIC: [2] Missing argument 1 for S(), called in D:\wamp64\www\thinkphp\Application\Login\Controller\LoginController.class.php on line 41 and defined D:\wamp64\www\thinkphp\ThinkPHP\Common\functions.php 第 1091 行.
+NOTIC: [8] Undefined variable: name D:\wamp64\www\thinkphp\ThinkPHP\Common\functions.php 第 1097 行.
+NOTIC: [8] Undefined variable: name D:\wamp64\www\thinkphp\ThinkPHP\Common\functions.php 第 1105 行.
+
+[ 2017-05-31T20:38:15+08:00 ] 127.0.0.1 /login/check_login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000707s ]
+
+[ 2017-05-31T20:38:25+08:00 ] 127.0.0.1 /login/check_login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000635s ]
+
+[ 2017-05-31T20:46:00+08:00 ] 127.0.0.1 /login/check_login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000704s ]
+
+[ 2017-05-31T20:46:18+08:00 ] 127.0.0.1 /login/check_login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000812s ]
+
+[ 2017-05-31T20:46:30+08:00 ] 127.0.0.1 /login/check_login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000601s ]
+
+[ 2017-05-31T20:46:37+08:00 ] 127.0.0.1 /login/check_login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000656s ]
+
+[ 2017-05-31T20:46:57+08:00 ] 127.0.0.1 /login/check_login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001057s ]
+
+[ 2017-05-31T20:54:57+08:00 ] 127.0.0.1 /login/check_login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000611s ]
+
+[ 2017-05-31T20:55:10+08:00 ] 127.0.0.1 /login/check_login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000896s ]
+NOTIC: [8] MemcachePool::get(): Server 127.0.0.1 (tcp 11211, udp 0) failed with: ����Ŀ����������ܾ����޷����ӡ�
+ (10061) D:\wamp64\www\thinkphp\ThinkPHP\Library\Think\Session\Driver\Memcache.class.php 第 49 行.
+
+[ 2017-05-31T20:55:28+08:00 ] 127.0.0.1 /login/check_login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000643s ]
+
+[ 2017-05-31T20:57:10+08:00 ] 127.0.0.1 /login/check_login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001182s ]
+NOTIC: [8] MemcachePool::get(): Server 127.0.0.1 (tcp 11211, udp 0) failed with: ������ӷ���һ��ʱ���û���ȷ�𸴻�ӵ����û�з�Ӧ�����ӳ���ʧ�ܡ�
+ (10060) D:\wamp64\www\thinkphp\ThinkPHP\Library\Think\Session\Driver\Memcache.class.php 第 49 行.
+
+[ 2017-05-31T20:57:18+08:00 ] 127.0.0.1 /login/check_login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000673s ]
+
+[ 2017-05-31T21:00:12+08:00 ] 127.0.0.1 /login/check_login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000721s ]
+NOTIC: [8] MemcachePool::get(): Server 127.0.0.1 (tcp 11211, udp 0) failed with: ������ӷ���һ��ʱ���û���ȷ�𸴻�ӵ����û�з�Ӧ�����ӳ���ʧ�ܡ�
+ (10060) D:\wamp64\www\thinkphp\ThinkPHP\Library\Think\Session\Driver\Memcache.class.php 第 49 行.
+
+[ 2017-05-31T21:00:36+08:00 ] 127.0.0.1 /login/check_login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000620s ]
+
+[ 2017-05-31T21:00:49+08:00 ] 127.0.0.1 /login/check_login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000843s ]
+NOTIC: [8] MemcachePool::get(): Server 127.0.0.1 (tcp 11211, udp 0) failed with: ������ӷ���һ��ʱ���û���ȷ�𸴻�ӵ����û�з�Ӧ�����ӳ���ʧ�ܡ�
+ (10060) D:\wamp64\www\thinkphp\ThinkPHP\Library\Think\Session\Driver\Memcache.class.php 第 49 行.
+
+[ 2017-05-31T21:01:27+08:00 ] 127.0.0.1 /login/check_login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000729s ]
+
+[ 2017-05-31T21:06:03+08:00 ] 127.0.0.1 /login/check_login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000899s ]
+NOTIC: [8] MemcachePool::get(): Server 127.0.0.1 (tcp 11211, udp 0) failed with: ������ӷ���һ��ʱ���û���ȷ�𸴻�ӵ����û�з�Ӧ�����ӳ���ʧ�ܡ�
+ (10060) D:\wamp64\www\thinkphp\ThinkPHP\Library\Think\Session\Driver\Memcache.class.php 第 49 行.
+
+[ 2017-05-31T21:06:14+08:00 ] 127.0.0.1 /login/check_login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000870s ]
+
+[ 2017-05-31T21:07:18+08:00 ] 127.0.0.1 /login/check_login.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000587s ]
+NOTIC: [8] MemcachePool::get(): Server 127.0.0.1 (tcp 11211, udp 0) failed with: ������ӷ���һ��ʱ���û���ȷ�𸴻�ӵ����û�з�Ӧ�����ӳ���ʧ�ܡ�
+ (10060) D:\wamp64\www\thinkphp\ThinkPHP\Library\Think\Session\Driver\Memcache.class.php 第 49 行.
+

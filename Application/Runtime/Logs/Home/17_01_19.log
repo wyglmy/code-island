@@ -1,0 +1,20 @@
+[ 2017-01-19T21:05:10+08:00 ] 127.0.0.1 /thinkphp/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004334s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.016142s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.016276s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.069937s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070052s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002211s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003636s ]
+
